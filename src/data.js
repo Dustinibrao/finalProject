@@ -11,55 +11,55 @@ const data = {
 			numReviews: 10,
 			description: "High quality product",
 		},
-        {
+		{
 			_id: "2",
 			name: "Sweet Potato Fries",
 			category: "Dried treats",
-			image: "/images/beefliver.png",
-			price: 20,
+			image: "/images/sweetPotato.jpg",
+			price: 40,
 			brand: "Homemade",
 			rating: 5,
 			numReviews: 10,
 			description: "High quality product",
 		},
-        {
+		{
 			_id: "3",
 			name: "Peanut Butter Biscuits",
 			category: "Dried treats",
-			image: "/images/beefliver.png",
+			image: "/images/peanutButterDogBones.jpg",
 			price: 20,
 			brand: "Homemade",
 			rating: 5,
 			numReviews: 10,
 			description: "High quality product",
 		},
-        {
+		{
 			_id: "4",
 			name: "Raw Hide",
 			category: "Dried treats",
-			image: "/images/beefliver.png",
+			image: "/images/rawhide.jpg",
 			price: 20,
 			brand: "Homemade",
 			rating: 5,
 			numReviews: 10,
 			description: "High quality product",
 		},
-        {
+		{
 			_id: "5",
-			name: "Dried Beef Liver",
+			name: "Dental Treats",
 			category: "Dried treats",
-			image: "/images/beefliver.png",
+			image: "/images/dentaltreats.jpg",
 			price: 20,
 			brand: "Homemade",
 			rating: 5,
 			numReviews: 10,
 			description: "High quality product",
 		},
-        {
+		{
 			_id: "6",
-			name: "Dried Beef Liver",
+			name: "Salmon Filets",
 			category: "Dried treats",
-			image: "/images/beefliver.png",
+			image: "/images/salmon.jpg",
 			price: 20,
 			brand: "Homemade",
 			rating: 5,
@@ -68,3 +68,4 @@ const data = {
 		},
 	],
 };
+export default data;
